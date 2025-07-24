@@ -10,8 +10,13 @@ Numpy
 Matplotlib
 <br>
 It calculates:
+<br>
 - Mean expression for control and treated samples
+<br>
 - Log2 fold change
+<br>
 - Dummy p-values (or real ones if provided)
+<br>
 - Identification of significantly upregulated/downregulated genes
+<br>
 - Volcano plot for visualization
