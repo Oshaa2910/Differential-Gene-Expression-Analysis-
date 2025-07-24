@@ -1,5 +1,6 @@
 # Differential-Gene-Expression-Analysis-
 <br>
+Author: Oshaa
 <br>
 This code performs a basic Differential Gene Expression Analysis using a gene expression dataset with only Python standard tools:
 <br>
